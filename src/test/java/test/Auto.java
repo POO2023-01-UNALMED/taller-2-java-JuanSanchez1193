@@ -19,8 +19,7 @@ public class Auto {
 			if ((this.asientos[i].registro != this.registro) ||
 					(this.registro != this.motor.registro)) {
 				
-				integridad = "Las piezas no son originales” en caso "
-						+ "contrario, retornara “Auto original";
+				integridad = "Las piezas no son originales";
 			    return integridad;
 				
 			}else {continue;}
