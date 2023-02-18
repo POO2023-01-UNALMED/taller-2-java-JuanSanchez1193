@@ -2,7 +2,7 @@ package test;
 
 public class Asiento {
 	public String color;
-	public int precio;
+	public String precio;
 	public int registro;
 	
 	public void cambiarColor(String color) {
